@@ -48,6 +48,7 @@
   [Filza zarin](https://github.com/Filzazarin)
   [Chamika Visal](https://github.com/chamikaVisal)
 - [Jasmine Moua](https://github.com/mouajas)
+- [Anna](https://github.com/AnyaKovalevskaya)
 - [Jack Joseph](https://github.com/dunleavyjack)
 - [Gedalia Rabinowitz](https://github.com/GedaliaR)
 - [LFsolar](https://github.com/LFsolar)
